@@ -2,7 +2,7 @@ name: Manuel Joriatti
 description: une page perso pour les réunir toutes
 url: "https://mjoriatti.github.io/"
 
-theme: jekyll-theme-minimal
+theme: minima
 
 lsi: false
 safe: true
